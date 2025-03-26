@@ -1,0 +1,19 @@
+{
+  "name": "marksheet",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonu-kumar-20/Marksheetgenerator.git"
+  },
+  "author": "sonu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sonu-kumar-20/Marksheetgenerator/issues"
+  },
+  "homepage": "https://github.com/sonu-kumar-20/Marksheetgenerator#readme",
+  "description": ""
+}
